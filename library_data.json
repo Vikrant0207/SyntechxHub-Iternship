@@ -10,5 +10,11 @@
         "title": "Nature's Revenge",
         "author": "Satya",
         "is_issued": false
-    }    
+    },
+    "103": {
+        "book_id": "103",
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "is_issued": false
+    }
 }
