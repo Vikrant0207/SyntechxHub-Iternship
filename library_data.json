@@ -2,7 +2,13 @@
     "101": {
         "book_id": "101",
         "title": "Essence of India",
-        "author": "Vikrant",
-        "is_issued": true
-    }
+        "author": "Bhargav Deka",
+        "is_issued": false
+    },
+    "102": {
+        "book_id": "102",
+        "title": "Nature's Revenge",
+        "author": "Satya",
+        "is_issued": false
+    }    
 }
